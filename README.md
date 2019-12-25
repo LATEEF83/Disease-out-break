@@ -6,6 +6,6 @@ From our analysis we were able to identify major challenges and provide recommen
 The recommendation were:1. Adequate sanitation of their environment all time, 2. Public enlightening 3. Proper clean of food, 
 fruit and vegetable before consume 4. Eradication of stagnant water in their community, 5. Provision of clean and safe water
 to general public at all time 6. Provision of quality health facilities to general public 7. Provision of qualify health workers and
-Availability of drugs all time. 
+Availability of drugs all time. 8. Fumigation of environment 9. Provision of good drainage system. 10. Proper disposal of dirty and waste. 
 My team and I carried out this analysis for the purpose of contributing our part to humanity.. 
 The Dataset was gotten from https://www.kaggle.com/eiodelami/disease-outbreaks-in-nigeria-datasets. 
